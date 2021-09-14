@@ -1,0 +1,5 @@
+str1 = str(input("Enter string 1: "))
+str2 = str(input("Enter string 2: "))
+print("concatinated string is: ", end="")
+str = (str1 + str2)
+print(str)
