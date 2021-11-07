@@ -320,7 +320,7 @@ VerticalAlignment="Bottom" FontSize="15" BorderThickness="0" Grid.Row="0"
 Grid.Column="0" Grid.ColumnSpan="2">Name:- C Greeshmitha</TextBox> 
         <TextBox x:Name="textdisplay2" IsReadOnly="True" TextAlignment="Right" 
 VerticalAlignment="Bottom" FontSize="15" BorderThickness="0" Grid.Row="0" 
-Grid.Column="2" Grid.ColumnSpan="2">RollNo:-221810305065</TextBox> 
+Grid.Column="2" Grid.ColumnSpan="2">RollNo:</TextBox> 
         <TextBox x:Name="textdisplay" IsReadOnly="True" TextAlignment="Right" 
 VerticalAlignment="Bottom" FontSize="38" BorderThickness="0" Grid.Row="1" 
 Grid.Column="0" Grid.ColumnSpan="4">0</TextBox> 
