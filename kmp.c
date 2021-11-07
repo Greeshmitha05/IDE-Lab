@@ -69,6 +69,6 @@ int main()
    gets(pat);
 	KMPSearch(pat, txt);
    printf("\nName:- Greeshmitha \n");
-   printf("Rollno:- 221810305065\n");
+   printf("Rollno:-\n");
 	return 0;
 }
